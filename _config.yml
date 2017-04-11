@@ -5,7 +5,7 @@ url: http://blog.wjlike.com/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/wuluo.github.io"
 
 
 sass:

@@ -3,7 +3,6 @@ layout: post
 title: centos7安装Nginx+PHP7
 description: 自己使用centos7安装Nginx+PHP7 的一些步骤，进行了简单的整理…… 
 img: image-1.jpg
-color: 212121
 author: wuluo
 ---
 

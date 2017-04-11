@@ -3,6 +3,7 @@ layout: post
 title: spring + dubbo构建api服务
 description: 自己使用centos7安装Nginx+PHP7 的一些步骤，进行了简单的整理…… 
 img: image-5.jpg
+color: FF6F00
 author: wuluo
 ---
 

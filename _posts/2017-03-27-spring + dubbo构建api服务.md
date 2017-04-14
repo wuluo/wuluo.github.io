@@ -2,7 +2,6 @@
 layout: post
 title: spring + dubbo构建api服务
 description: eclipse + tomcat + spring +dubbo 构建http服务基础配置，对初始化环境做简单的记录……
-img: image-5.jpg
 color: FF6F00
 author: wuluo
 ---
